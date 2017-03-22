@@ -24,10 +24,7 @@ Installation =>
 
    ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/create.png)
 
-   Click add new book =>
-
-    ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/after_create_btn_click.png)
-
+   
    Click edit button =>
 
   ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/edit.png)
