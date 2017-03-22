@@ -23,7 +23,11 @@ Installation =>
     http://localhost:8000/book
 
    ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_012.png)
+   <br>
       ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_013.png)
+      <br>
          ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_014.png)
+         <br>
             ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_015.png)
+            <br>
             ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_016.png)
