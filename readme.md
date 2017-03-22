@@ -7,7 +7,13 @@ Installation =>
     copy .env.example to .env
 
     if you use MySQL in .env and database.php file :
-        set DB_CONNECTION
-        set DB_DATABASE
-        set DB_USERNAME
-        set DB_PASSWORD
+
+    .env =>
+    DB_DATABASE=your_database_name
+    DB_USERNAME=user_name
+    DB_PASSWORD=sql_passwsord
+
+   config/database.php =>
+   'database' => env('DB_DATABASE', 'your_database_name'),
+   'username' => env('DB_USERNAME', 'user_name'),
+   'password' => env('DB_PASSWORD', 'sql_password'),
