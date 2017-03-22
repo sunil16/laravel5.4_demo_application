@@ -7,7 +7,7 @@ Installation =>
     copy .env.example to .env
 
     if you use MySQL in .env and database.php file :
-    
+
     config/database.php =>
     'database' => env('DB_DATABASE', 'your_database_name'),
     'username' => env('DB_USERNAME', 'user_name'),
@@ -17,3 +17,9 @@ Installation =>
     DB_DATABASE=your_database_name
     DB_USERNAME=user_name
     DB_PASSWORD=sql_passwsord
+
+    after successful configuration =>
+
+    http://localhost:8000/book
+
+  
