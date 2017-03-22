@@ -5,7 +5,7 @@ Installation =>
     type composer install
     type composer update
     copy .env.example to .env
-    type php artisan key:generateto regenerate secure key
+    
     if you use MySQL in .env and database.php file :
         set DB_CONNECTION
         set DB_DATABASE
