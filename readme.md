@@ -1,3 +1,21 @@
+Installation =>
+
+    type git clone https://github.com/sunil16/laravel5.4_demo_application.git projectname to clone the repository
+    type cd projectname
+    type composer install
+    type composer update
+    copy .env.example to .env
+    type php artisan key:generateto regenerate secure key
+    if you use MySQL in .env and database.php file :
+        set DB_CONNECTION
+        set DB_DATABASE
+        set DB_USERNAME
+        set DB_PASSWORD
+
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
