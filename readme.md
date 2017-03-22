@@ -23,7 +23,5 @@ Installation =>
     http://localhost:8000/book
 
     create =>
-
-    <p align="center">
-    <img src="https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/create.png" width="350"/>
-    </p>
+![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/create.png)
+    
