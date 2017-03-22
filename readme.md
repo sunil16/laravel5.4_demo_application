@@ -24,10 +24,12 @@ Installation =>
 
    ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_012.png)
    <br>
+   after add new button click =>
       ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_013.png)
       <br>
          ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_014.png)
          <br>
+            after edit button click =>
             ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_015.png)
             <br>
             ![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_016.png)
